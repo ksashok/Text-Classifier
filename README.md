@@ -1,5 +1,6 @@
 # Text-Classifier
-ADA Assignment - Classifying News Articles
+Classifying News Articles with SVM.
+Using SVD for feature reduction.
 
 ## wrangling.ipynb
 Python program to read the 2 datasets and combine them. Output would be a csv file "data_final.csv"
